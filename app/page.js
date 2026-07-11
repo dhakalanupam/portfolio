@@ -27,7 +27,7 @@ const workItems = [
     tag: 'Long-Form',
     ratio: '16:9',
     youtubeId: 'DZrJbc9xavc',
-    alt: 'Long-form YouTube edit thumbnail',
+    alt: 'Long-form YouTube edit Tumbnail',
     accent: 'default',
   },
   {
